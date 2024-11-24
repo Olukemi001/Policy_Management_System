@@ -57,7 +57,7 @@ This repository includes Python code written in Jupyter notebooks and converted 
 
 ### Prerequisites
 - Python 3.8 or higher
-- Jupyter Notebook (optional, for viewing `.ipynb` files)
+- Jupyter Notebook (for viewing `.ipynb` files)
 
 ### Installation
 Copy the Policy_Management_System folder into the desired location on your system. Unzip the folder and open the files in Jupyter Notebook
